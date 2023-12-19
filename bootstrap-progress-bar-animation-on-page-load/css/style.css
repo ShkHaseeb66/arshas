@@ -1,0 +1,18 @@
+.cd__main{
+   display: block !important;
+}
+.row {
+  padding: 4em 3em;
+}
+
+.textbox {
+  height: 700px;
+}
+
+.progress {
+  margin-bottom: 10px;
+}
+
+.progress-bar {
+  width: 0;
+}
